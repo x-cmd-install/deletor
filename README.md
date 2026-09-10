@@ -12,6 +12,15 @@ Manage and delete files efficiently with an interactive TUI and scriptable CLI.
 x install deletor
 ```
 
+## Code insight
+
+Total: **11,293** lines of code across **89** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 11,293 | 620 | 1,688 | 86 |
+| Markdown | 0 | 239 | 114 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/pashkov256/deletor>
@@ -23,6 +32,25 @@ x install deletor
 - **Latest**: `2.0.0` (2026-04-04)
 - **Last commit**: 2026-04-04
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 256 · **Forks**: 62 · **Open issues**: 139 · **Contributors**: 29
+
+## Totals (cumulative)
+
+- **Releases**: 6 · **Merged PRs**: 122 · **Open PRs**: 7 · **Closed issues**: 135 · **Open issues**: 4 · **Commits**: 401
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 4 | 2 | 0 | 3 | 6 |
+| 360d | 2025-09-15 | 1 | 16 | 6 | 10 | 3 | 42 |
+| last720d | 2024-09-20 | 6 | 122 | 7 | 135 | 4 | 401 |
 
 ## Release assets
 
@@ -46,30 +74,9 @@ x install deletor
 | [deletor-v2.0.0-windows-arm.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm.exe) | 4.6 MiB | `native/win/x64` |
 | [deletor-v2.0.0-windows-arm64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm64.exe) | 4.8 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 256 · **Forks**: 61 · **Open issues**: 139 · **Contributors**: 29
-
-## Totals (cumulative)
-
-- **Releases**: 6 · **Merged PRs**: 122 · **Open PRs**: 6 · **Closed issues**: 135 · **Open issues**: 4 · **Commits**: 401
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 1 | 16 | 5 | 10 | 3 | 42 |
-
-## Code size
-
-Total: **11,293** lines of code across **89** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 11,293 | 620 | 1,688 | 86 |
-| Markdown | 0 | 239 | 114 | 3 |
+Reported by **3** distros on [repology.org](https://repology.org/project/deletor). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -80,4 +87,4 @@ Install metadata for deletor lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:53:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:20:02Z._
