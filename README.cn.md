@@ -4,7 +4,7 @@
 
 Manage and delete files efficiently with an interactive TUI and scriptable CLI.
 
-![deletor](https://repo.x-cmd.io/deletor.svg)
+![deletor](https://repo.x-cmd.io/deletor.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,28 @@ x install deletor
 - **最新版本**: `2.0.0` (2026-04-04)
 - **最近提交**: 2026-04-04
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-04-04T14:02:28Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [deletor-v2.0.0-darwin-amd64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-amd64) | 4.7 MiB | `native/darwin/x64` |
+| [deletor-v2.0.0-darwin-arm64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-arm64) | 4.6 MiB | `native/darwin/arm64` |
+| [deletor-v2.0.0-linux-386](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-386) | 4.3 MiB | `other` |
+| [deletor-v2.0.0-linux-amd64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-amd64) | 4.7 MiB | `native/linux/x64` |
+| [deletor-v2.0.0-linux-arm](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-arm) | 4.4 MiB | `native/linux/arm` |
+| [deletor-v2.0.0-linux-arm64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-arm64) | 4.7 MiB | `native/linux/arm64` |
+| [deletor-v2.0.0-linux-mips](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips) | 4.9 MiB | `other` |
+| [deletor-v2.0.0-linux-mips64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips64) | 5.3 MiB | `other` |
+| [deletor-v2.0.0-linux-mips64le](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips64le) | 5.3 MiB | `other` |
+| [deletor-v2.0.0-linux-mipsle](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mipsle) | 4.9 MiB | `other` |
+| [deletor-v2.0.0-linux-ppc64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-ppc64) | 4.8 MiB | `other` |
+| [deletor-v2.0.0-linux-ppc64le](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-ppc64le) | 4.8 MiB | `other` |
+| [deletor-v2.0.0-linux-s390x](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-s390x) | 5.1 MiB | `other` |
+| [deletor-v2.0.0-windows-386.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-386.exe) | 4.5 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-amd64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-amd64.exe) | 4.9 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-arm.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm.exe) | 4.6 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-arm64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm64.exe) | 4.8 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -59,4 +80,4 @@ deletor 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:28:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:06Z._

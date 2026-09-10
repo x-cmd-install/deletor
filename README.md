@@ -23,7 +23,28 @@ x install deletor
 - **Latest**: `2.0.0` (2026-04-04)
 - **Last commit**: 2026-04-04
 - **Assets in release**: 17
-- **Published**: 2026-04-04T14:02:28Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [deletor-v2.0.0-darwin-amd64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-amd64) | 4.7 MiB | `native/darwin/x64` |
+| [deletor-v2.0.0-darwin-arm64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-arm64) | 4.6 MiB | `native/darwin/arm64` |
+| [deletor-v2.0.0-linux-386](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-386) | 4.3 MiB | `other` |
+| [deletor-v2.0.0-linux-amd64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-amd64) | 4.7 MiB | `native/linux/x64` |
+| [deletor-v2.0.0-linux-arm](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-arm) | 4.4 MiB | `native/linux/arm` |
+| [deletor-v2.0.0-linux-arm64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-arm64) | 4.7 MiB | `native/linux/arm64` |
+| [deletor-v2.0.0-linux-mips](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips) | 4.9 MiB | `other` |
+| [deletor-v2.0.0-linux-mips64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips64) | 5.3 MiB | `other` |
+| [deletor-v2.0.0-linux-mips64le](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips64le) | 5.3 MiB | `other` |
+| [deletor-v2.0.0-linux-mipsle](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mipsle) | 4.9 MiB | `other` |
+| [deletor-v2.0.0-linux-ppc64](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-ppc64) | 4.8 MiB | `other` |
+| [deletor-v2.0.0-linux-ppc64le](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-ppc64le) | 4.8 MiB | `other` |
+| [deletor-v2.0.0-linux-s390x](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-s390x) | 5.1 MiB | `other` |
+| [deletor-v2.0.0-windows-386.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-386.exe) | 4.5 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-amd64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-amd64.exe) | 4.9 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-arm.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm.exe) | 4.6 MiB | `native/win/x64` |
+| [deletor-v2.0.0-windows-arm64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm64.exe) | 4.8 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -55,8 +76,8 @@ Total: **11,293** lines of code across **89** files in the top 5 languages.
 Install metadata for deletor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `deletor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/deletor.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/deletor.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:28:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:53:06Z._
