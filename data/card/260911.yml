@@ -7,7 +7,7 @@ about:
   latestVersion: "2.0.0"
   latestRelease: "2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T02:22:15Z
+  collectedAt: 2026-09-11T20:55:47Z
 timeline:
   created: 2025-01-25
   lastCommit: 2026-04-04
@@ -83,7 +83,7 @@ total:
   commit: 401
 ---
 path: /home/runner/.x-repo/github.com/pashkov256/deletor
-collectedAt: 2026-09-11T02:22:16Z
+collectedAt: 2026-09-11T20:55:48Z
 loc:
   Go:
     code: 11293
