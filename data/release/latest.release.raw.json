@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4850066,
       "digest": "sha256:cd777de563d741a8deb5e85836e3a80fa265c950d36d90d9801d58cbee1ddfa2",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-04-04T13:59:35Z",
       "updated_at": "2026-04-04T13:59:37Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-arm64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4477080,
       "digest": "sha256:b28f06c46422a452050f02338aaeafdc2423b02d61e9c222de58b87908188dab",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-04-04T13:59:37Z",
       "updated_at": "2026-04-04T13:59:40Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-386"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4898968,
       "digest": "sha256:f2b68d76f2490ad35172c7513e7626445b7302b02db19fb2e6507874883ba199",
-      "download_count": 196,
+      "download_count": 198,
       "created_at": "2026-04-04T13:59:40Z",
       "updated_at": "2026-04-04T13:59:42Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-amd64"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 5177527,
       "digest": "sha256:bdbde96db4479cd45229ebbe691ca09c9db51475c299e258be84e1037b7136ab",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-04-04T13:59:50Z",
       "updated_at": "2026-04-04T13:59:55Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5505176,
       "digest": "sha256:37d25c279b1d93b7cbbcb7024b27a88e391a10e1f26142cc7374c36e085eced4",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-04-04T13:59:55Z",
       "updated_at": "2026-04-04T13:59:59Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-mips64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4715520,
       "digest": "sha256:ff4d9dbef93b002fb3fd47f83f28a850250eae5c2ab3cbc8c56cce1252df9bbe",
-      "download_count": 73,
+      "download_count": 74,
       "created_at": "2026-04-04T13:59:08Z",
       "updated_at": "2026-04-04T13:59:09Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-386.exe"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 5172736,
       "digest": "sha256:f83b8cb09267465ab2d6ffab6648611b2258ca3c4cd9dd5387b1454ce814fff7",
-      "download_count": 133,
+      "download_count": 135,
       "created_at": "2026-04-04T13:59:09Z",
       "updated_at": "2026-04-04T13:59:10Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-amd64.exe"
