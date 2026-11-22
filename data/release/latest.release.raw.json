@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4850066,
       "digest": "sha256:cd777de563d741a8deb5e85836e3a80fa265c950d36d90d9801d58cbee1ddfa2",
-      "download_count": 59,
+      "download_count": 60,
       "created_at": "2026-04-04T13:59:35Z",
       "updated_at": "2026-04-04T13:59:37Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4898968,
       "digest": "sha256:f2b68d76f2490ad35172c7513e7626445b7302b02db19fb2e6507874883ba199",
-      "download_count": 286,
+      "download_count": 287,
       "created_at": "2026-04-04T13:59:40Z",
       "updated_at": "2026-04-04T13:59:42Z",
       "browser_download_url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-linux-amd64"
