@@ -45,12 +45,12 @@ Total: **11,293** lines of code across **89** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 1 | 15 | 6 | 10 | 3 | 40 |
-| last720d | 2024-12-05 | 6 | 122 | 7 | 135 | 4 | 401 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 1 | 15 | 6 | 10 | 3 | 40 |
+| last720d | 2024-12-06 | 6 | 122 | 7 | 135 | 4 | 401 |
 
 ## Release assets
 
@@ -74,10 +74,6 @@ Total: **11,293** lines of code across **89** files in the top 5 languages.
 | [deletor-v2.0.0-windows-arm.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm.exe) | 4.6 MiB | `native/win/x64` |
 | [deletor-v2.0.0-windows-arm64.exe](https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-arm64.exe) | 4.8 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/deletor). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for deletor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `deletor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +83,4 @@ Install metadata for deletor lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:23:31Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:16:02Z._
